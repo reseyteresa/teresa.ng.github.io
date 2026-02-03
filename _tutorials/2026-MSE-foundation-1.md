@@ -1,8 +1,8 @@
 ---
 title: "ECON 6018 Tutorial 1: Matrix Algebra"
-collection: tutorial
+collection: tutorials
 type: "Master’s Course Tutorial"
-permalink: /tutorial/2026-MSE-foundation-1
+permalink: /tutorials/2026-MSE-foundation-1
 venue: "Singapore Management University"
 date: 2026-01-23
 location: "Singapore"
