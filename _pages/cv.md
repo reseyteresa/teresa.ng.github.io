@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+A copy of my CV can be found [here](/files/Teresa_Ng_CV_wo_coursework.docx).
+
 Education
 ======
 * Awaiting PhD in Economics Enrollment
