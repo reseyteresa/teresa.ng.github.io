@@ -80,7 +80,7 @@ Working Papers
   * Models both direct and indirect effects using binary and severity-weighted tariff shocks.
   * Finds significant negative effects for China, with limited evidence for spillovers to other countries.
 
-  Skills
+Skills
 ======
 
 * **Certifications**
