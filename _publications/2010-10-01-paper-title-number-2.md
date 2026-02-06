@@ -1,14 +1,18 @@
 ---
-title: "Paper Title Number 2"
+title: "Working Paper: Recreational Cannabis and Its Effect on Opioid Demand"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+# permalink: /publication/2025-02-21-cannabis-opioids
+excerpt: ''
+date: 2025-02-21
+#venue: 'Journal'
+#slidesurl: ''
+#paperurl: ''
+#bibtexurl: ''
+citation: 'Ng, T. (2025). Recreational cannabis and its effect on opioid demand. Working paper.'
 ---
+This paper investigates whether recreational cannabis acts as a substitute or complement for opioids in the United States. Using a Difference-in-Differences (DiD) framework, the study examines changes in opioid prescription demand following the legalization of recreational cannabis across selected U.S. states.
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The results indicate that recreational cannabis legalization is associated with a statistically significant reduction in opioid prescriptions once state fixed effects and income controls are included, supporting the substitution hypothesis. However, an extended analysis suggests that overall drug overdose rates increase post-legalization, highlighting a potential policy trade-off. These findings contribute to the ongoing debate on cannabis legalization, opioid harm reduction, and unintended public health consequences.
+
+[PDF](/files/Recreational_Cannabis.pdf)
