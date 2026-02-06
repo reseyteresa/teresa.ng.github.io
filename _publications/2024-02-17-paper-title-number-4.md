@@ -17,3 +17,36 @@ Using a Solow–Swan growth accounting approach, the results show that total fac
 
 [PDF](/files/Growth_of_Siam_Research_Paper.pdf)
 
+---
+
+## Feedback on This Paper
+
+<form action="https://formspree.io/f/xjgebzpo" method="POST">
+  <label>
+    <strong>Paper Title</strong><br>
+    <input type="text" name="paper" required
+           placeholder="e.g. U.S. Trade Policy Shocks (Bayesian Panel VAR-X)"
+           style="width:100%; padding:8px; margin-top:4px;">
+  </label>
+  <br><br>
+
+  <label>
+    <strong>Name</strong><br>
+    <input type="text" name="name" required
+           style="width:100%; padding:8px; margin-top:4px;">
+  </label>
+  <br><br>
+
+  <label>
+    <strong>Feedback</strong><br>
+    <textarea name="message" rows="4" required
+              placeholder="Comments, suggestions, or questions about this paper"
+              style="width:100%; padding:8px; margin-top:4px;"></textarea>
+  </label>
+
+  <br><br>
+  <button type="submit" style="padding:8px 16px;">Submit Feedback</button>
+</form>
+
+---
+
